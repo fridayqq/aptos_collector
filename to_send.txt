@@ -1,0 +1,2 @@
+seed_phrase_to_send_aptos_from_1; recipient_address
+seed_phrase_to_send_aptos_from_2; recipient_address
